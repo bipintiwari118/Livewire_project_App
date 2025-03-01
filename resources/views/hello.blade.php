@@ -8,9 +8,9 @@
     @livewireStyles
 </head>
 <body>
-
-
-    <livewire:counter /> 
+{{-- 
+ This is first livewire project  --}}
+    <livewire:counter />
 
 
     @livewireScripts
